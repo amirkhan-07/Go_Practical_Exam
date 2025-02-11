@@ -1,0 +1,11 @@
+1)    Write a Golang program that reverse a string.
+
+ Ans => To reverse a string we will make first a file with extension name go.
+        The first line is package main and then importing that fmt package .
+        And then created a function named with reversestr and put arguement as str gave the data type of 
+       string and return data type as string .
+       and then use a for loop for reverse string iterate i to check the condition upto i is less than n/2 
+       in for i pass the condition n-1-i = n-1-i that will reverse the string.
+       and then i returned the string.
+      lastly called the main function
+      asking user to give input as string and then calling the reversestr putting the argument of iput.
